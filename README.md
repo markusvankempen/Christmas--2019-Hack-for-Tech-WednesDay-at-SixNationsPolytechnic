@@ -1,4 +1,4 @@
-# Christmas--2019-Hack-for-Tech-WednesDay-at-SixNationsPolytechnic
+# Christmas Hack for Tech WednesDay at SixNationsPolytechnic
 For my last #TechWednesDay of 2019 at SixNationsPolytechnic I wanted to leave the Students with something 
 they can take home at the end of our class. 
 I remembered that we had the PlayBulbs LED candles form last year so I came up with this little hack 
