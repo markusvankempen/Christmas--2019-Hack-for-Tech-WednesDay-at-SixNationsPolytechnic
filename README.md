@@ -6,7 +6,9 @@ to turn the candle into a light for a hat/toque to be visible at night. Here the
 (Hack) an App controlled Hat LED.
 
 ### Instructions
-here markusvankempen.wordpress.com
+here http://markusvankempen.wordpress.com
 
 as well in the pdf
 
+Enjoy
+Markus
